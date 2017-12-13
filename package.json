@@ -1,0 +1,14 @@
+{
+ "name": "app",
+ "version": "1.0.0",
+ "main": "index.js",
+ "repository": "git@github.com:morizyun/headless-chrome-puppeteer-japanese.git",
+ "license": "MIT",
+ "scripts": {
+  "puppeteer": "node puppeteer.js"
+ },
+ "dependencies": {
+  "cheerio": "^1.0.0-rc.2",
+  "puppeteer": "^0.13.0"
+ }
+}
